@@ -61,12 +61,6 @@ python main.py --mode video --input path/to/input_video.mp4 --output path/to/out
 
 *Video processing will extract frames into a temporary folder (`temp_frames`), process them, create the final video, and then clean up the temporary files automatically.*
 
-## Example
-
-| Real Image                           | Cartoonized Image                                |
-|--------------------------------------|--------------------------------------------------|
-| ![Real Image](test_images/023.png)   | ![Cartoonized Image](result/023.png)             |
-
 ## References
 
 - [Project Page](https://systemerrorwang.github.io/White-box-Cartoonization/)
